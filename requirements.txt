@@ -1,0 +1,5 @@
+gradio
+yt-dlp
+ffmpeg-python
+python-dotenv
+tqdm
